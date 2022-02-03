@@ -2632,10 +2632,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.main {
+		/*.image.main {
 			display: block;
 			margin: 4rem 0;
-			width: 100%;
+			width: 100%;*/ 사진 크기 조절했음
 		}
 
 			.image.main:first-child {
