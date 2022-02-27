@@ -3362,7 +3362,7 @@ table.alt tbody tr td {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #212931;
+    background-color: #356095;
     background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
     background-size: auto, auto, 100% auto;
     background-position: center, center, top center;
@@ -3387,7 +3387,7 @@ table.alt tbody tr td {
     -webkit-transition-delay: 0.75s;
     -ms-transition-delay: 0.75s;
     transition-delay: 0.75s;
-    background: #1e252d;
+    background: #356095;
     content: '';
     display: block;
     height: 100%;
